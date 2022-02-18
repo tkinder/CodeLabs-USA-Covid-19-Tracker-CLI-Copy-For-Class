@@ -1,0 +1,4 @@
+
+require_relative "../lib/USA_Covid_19_Tracker.rb"
+
+CLI.new.run
